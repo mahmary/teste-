@@ -8,6 +8,10 @@ head{
     background-color: blue;
     display: flex
     padding: 150vw 1920vw ;
-    position: absolute;
+    position: relative;
 
+}
+.colegio-do-porto{
+    display: flex;
+    font-size: 50px;
 }
