@@ -7,5 +7,7 @@
 head{
     background-color: blue;
     display: flex
-    padding: 50vw 1920vw ;
+    padding: 150vw 1920vw ;
+    position: absolute;
+
 }
